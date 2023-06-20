@@ -1,2 +1,2 @@
 # e-store
-An estore built with React and Redux. 
+An estore built with React, Redux toolkit and Redux persist for persist data. 
